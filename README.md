@@ -8,5 +8,5 @@
 
 [Website Demo](https://holux-a7mdmo74.vercel.app/)
 
-![SharedScreenshot]![brand](https://user-images.githubusercontent.com/68064222/179065381-d58f80cb-251f-4e13-b5fb-2e50a93a921b.png)
+![SharedScreenshot]![brand](https://github.com/a7mdmo74/holux/issues/1#issue-1307478307)
 
